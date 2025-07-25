@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ... Veli Ristimaki
-- 👀 I’m interested in ... machine learning, economics and statistics
+- 👀 I’m interested in ... machine learning, economics, statistics and game dev
 - 💞️ I’m looking to collaborate on ... Any project!
 - 📫 How to reach me ... velilobeli@gmail.com
 
