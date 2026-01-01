@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ... Veli Ristimaki
-- 👀 I’m interested in ... machine learning, economics, statistics and game dev
-- 💞️ I’m looking to collaborate on ... Any project!
+- 👀 I’m interested in ... graphics programming, shaders and game dev
+- 💞️ I’m looking to collaborate on ... game dev projects!
 - 📫 How to reach me ... velilobeli@gmail.com
 
 <!---
